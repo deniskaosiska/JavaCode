@@ -5,5 +5,6 @@ public class MyTest {
     public void test01() {
             System.out.println("den");
         System.out.println("den");
+        System.out.println("den");
     }
 }
